@@ -1,0 +1,8 @@
+data/images/
+data/raw/
+checkpoints/
+*.zip
+*.pt
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
